@@ -82,3 +82,26 @@ Computer system that behaves in an intelligent way
 	A trained network can be used for classification, decision making, etc.
 
 	![Neural Net](http://cs231n.github.io/assets/nn1/neural_net.jpeg)
+
+
+##  Machine Learning
+
+Machine Learning refers to the process of teaching a skill to a computer by supplying training data and allowing the computer to adjust itself to mimick the desired functionality.
+
+
+## Training Steps
+
+1. Supply the training input
+2. Process the input according to the existing weights
+3. Compare the training output to the actual output
+4. Adjust the weights based on the difference between the training and actual outputs
+5. Repeat
+
+With each iteration the set of weights gets closer to mimicking the desired functionality
+
+
+## Potential Uses for iVantage
+
+1. HMC Coding
+2. CompGroup generation
+3. Generating Executive Summaries
