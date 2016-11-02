@@ -128,3 +128,8 @@ With each iteration the system gets closer to mimicking the desired functionalit
 2. CompGroup generation (Learning and Perception)
 
 3. Generating Executive Summaries (Natural Language Processing, Perception and Learning)
+
+
+## Questions/Comments/Concerns
+
+<img src="http://nerdyrottenscoundrel.com/wp-content/uploads/2014/08/Terminator-Wallpaper-9-660x3301.jpg">
