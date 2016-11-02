@@ -54,6 +54,42 @@ Computer system that behaves in an intelligent way
 	<img src="http://parade.com/wp-content/uploads/2014/01/Her-Movie-siri-operating-system-ftr.jpg" style="height:400px">
 
 
+##  Machine Learning
+
+Machine Learning refers to the process of teaching a skill to a computer by supplying training data and allowing the computer to adjust itself to mimick the desired functionality.
+
+
+## Training Steps
+
+
+Input
+
+<img src="http://orig03.deviantart.net/af44/f/2013/105/f/b/kirby_eating_chips_by_poyquinn-d61vqou.png" style="height:400px">
+
+
+Process
+
+<img src="https://media.giphy.com/media/yCsE8NroXh36o/giphy.gif">
+
+
+Compare 
+
+<img src="http://www.wpaperhd.com/uploads/cache/2341646345/batman-v-superman-movie-poster-m7OG-850x575-MT-78.jpg" style="height:400px">
+
+
+Adjust
+
+<img src="http://www.firstshowing.net/img/ironman-rocketboot-const.jpg">
+
+
+Repeat
+
+<img src="https://cdn4.iconfinder.com/data/icons/defaulticon/icons/png/256x256/media-repeat.png">
+
+
+With each iteration the system gets closer to mimicking the desired functionality
+
+
 ## Methods of Artificial Intelligence
 
 - Searching
@@ -84,24 +120,11 @@ Computer system that behaves in an intelligent way
 	![Neural Net](http://cs231n.github.io/assets/nn1/neural_net.jpeg)
 
 
-##  Machine Learning
-
-Machine Learning refers to the process of teaching a skill to a computer by supplying training data and allowing the computer to adjust itself to mimick the desired functionality.
-
-
-## Training Steps
-
-1. Supply the training input
-2. Process the input according to the existing weights
-3. Compare the training output to the actual output
-4. Adjust the weights based on the difference between the training and actual outputs
-5. Repeat
-
-With each iteration the set of weights gets closer to mimicking the desired functionality
-
 
 ## Potential Uses for iVantage
 
-1. HMC Coding
-2. CompGroup generation
-3. Generating Executive Summaries
+1. Coding (Natural Language Processing and Learning)
+
+2. CompGroup generation (Learning and Perception)
+
+3. Generating Executive Summaries (Natural Language Processing, Perception and Learning)
