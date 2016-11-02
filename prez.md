@@ -108,7 +108,7 @@ With each iteration the system gets closer to mimicking the desired functionalit
 
 	## Probabilistic Models
 
-	welp
+	![probability](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera.s3.amazonaws.com/topics/pgm/large-icon.png)
 
 
 	## Neural Networks
@@ -117,7 +117,7 @@ With each iteration the system gets closer to mimicking the desired functionalit
 
 	A trained network can be used for classification, decision making, etc.
 
-	![Neural Net](http://cs231n.github.io/assets/nn1/neural_net.jpeg)
+	![Neural Net](http://doctorsandhu.com/Neuron/images/image04.png)
 
 
 
